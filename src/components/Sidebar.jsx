@@ -77,7 +77,7 @@ const Sidebar = () => {
 											</a>
 										</div>
 									</div>
-									<div className="">
+									<div className="hover:bg-gray-700 rounded-full p-1 transition-colors duration-200 cursor-pointer">
 										<IoIosArrowDown
 											color="white"
 											fontSize={20}
