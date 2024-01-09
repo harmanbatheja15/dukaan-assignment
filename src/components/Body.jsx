@@ -18,8 +18,8 @@ const Body = () => {
 			</div>
 
 			{/* Cards */}
-			<div className="flex items-center justify-between w-full">
-				<div className="flex w-full mx-3 items-center rounded-md md:flex-row bg-white drop-shadow-sm">
+			<div className="block md:flex items-center justify-between w-full">
+				<div className="flex w-full mx-3 mb-3 md:mb-0 items-center rounded-md md:flex-row bg-white drop-shadow-sm">
 					<div>
 						<div className="p-4">
 							<p className="mb-3 mt-1 text-md text-gray-600 font-light">
