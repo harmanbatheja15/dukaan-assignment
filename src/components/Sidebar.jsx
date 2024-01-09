@@ -11,7 +11,7 @@ import { LuMousePointer2 } from "react-icons/lu";
 import { CiDiscount1, CiWallet } from "react-icons/ci";
 import { FiUsers } from "react-icons/fi";
 import { IoColorPaletteOutline, IoFlashOutline } from "react-icons/io5";
-import Navbar from "./NavBar.jsx";
+import Navbar from "./Navbar.jsx";
 import Body from "./Body.jsx";
 
 const Sidebar = () => {
