@@ -274,67 +274,67 @@ const Body = () => {
 					<div className="hidden items-center gap-x-3 md:flex">
 						<a
 							href="#"
-							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-gray-100"
+							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-sky-700 hover:text-white"
 						>
 							1
 						</a>
 						<a
 							href="#"
-							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-gray-100"
+							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-sky-700 hover:text-white"
 						>
 							...
 						</a>
 						<a
 							href="#"
-							className="rounded-md px-2 py-1 text-sm text-white bg-sky-700 hover:bg-gray-100"
+							className="rounded-md px-2 py-1 text-sm text-white bg-sky-700"
 						>
 							10
 						</a>
 						<a
 							href="#"
-							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-gray-100"
+							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-sky-700 hover:text-white"
 						>
 							11
 						</a>
 						<a
 							href="#"
-							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-gray-100"
+							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-sky-700 hover:text-white"
 						>
 							12
 						</a>
 						<a
 							href="#"
-							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-gray-100"
+							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-sky-700 hover:text-white"
 						>
 							13
 						</a>
 						<a
 							href="#"
-							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-gray-100"
+							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-sky-700 hover:text-white"
 						>
 							14
 						</a>
 						<a
 							href="#"
-							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-gray-100"
+							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-sky-700 hover:text-white"
 						>
 							15
 						</a>
 						<a
 							href="#"
-							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-gray-100"
+							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-sky-700 hover:text-white"
 						>
 							16
 						</a>
 						<a
 							href="#"
-							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-gray-100"
+							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-sky-700 hover:text-white"
 						>
 							17
 						</a>
 						<a
 							href="#"
-							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-gray-100"
+							className="rounded-md px-2 py-1 text-sm text-gray-500 hover:bg-sky-700 hover:text-white"
 						>
 							18
 						</a>
