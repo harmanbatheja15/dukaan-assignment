@@ -1,6 +1,4 @@
 import React from "react";
-import { IoMdMenu } from "react-icons/io";
-import { RxCross2 } from "react-icons/rx";
 import { AiOutlineQuestionCircle } from "react-icons/ai";
 import { LiaBullhornSolid } from "react-icons/lia";
 import { RiArrowDownSFill } from "react-icons/ri";
