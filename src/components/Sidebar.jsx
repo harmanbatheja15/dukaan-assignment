@@ -63,7 +63,7 @@ const Sidebar = () => {
 								<div className="flex items-center justify-between py-2">
 									<div className="flex">
 										<img
-											src="https://scontent.fixc1-8.fna.fbcdn.net/v/t39.30808-6/305842526_480112457462860_1258181700195647656_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=ATmvsDqagZkAX9h7XJ7&_nc_ht=scontent.fixc1-8.fna&oh=00_AfC5ffU6XRmWPOZY9k-FE1WjXC2vHfans5qeVpZvn-D2ww&oe=65A1C07B"
+											src="https://scontent.fixc1-8.fna.fbcdn.net/v/t39.30808-6/305842526_480112457462860_1258181700195647656_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=xBUuU9q9sWAAX-mD1vx&_nc_ht=scontent.fixc1-8.fna&oh=00_AfA71wpYfiEylSVke0SAGP82ASad5Sk8G4CiwGEHz__sHg&oe=65AD9DFB"
 											alt="Nishyan"
 											className="h-12 rounded-md mr-4"
 										/>
